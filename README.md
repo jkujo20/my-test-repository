@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use. Quick brown fox.
+An in-depth paragraph about your project and overview of use. Quick brown fox jumps over the lazy dog.
 
 ## Getting Started
 
