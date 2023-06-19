@@ -18,6 +18,7 @@ An in-depth paragraph about your project and overview of use. Quick brown fox ju
 
 - How/where to download your program
 - Any modifications needed to be made to files/folders quick brown
+- Quick brown fox jumps over the lazy dog
 
 ### Executing program
 
