@@ -6,3 +6,4 @@ branch1 test1
 branch2 test1
 branch2 test2
 fork test1
+fork test2
